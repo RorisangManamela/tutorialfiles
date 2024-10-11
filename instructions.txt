@@ -1,3 +1,5 @@
+https://github.com/SaskiaSteyn
+
 Setup
 1. npm init - creates package.json file
 2. npm dependencies:
