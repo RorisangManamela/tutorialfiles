@@ -1,0 +1,7 @@
+Setup
+1. npm init - creates package.json file
+2. npm dependencies:
+    npm install css-loader express path postcss-loader react react-dom react-router-dom style-loader @babel/cli @babel/core @babel/preset-env @babel/preset-react babel-loader tailwindcss webpack webpack-cli mongodb --save-dev regenerator-runtime
+3. npx webpack -g
+
+
